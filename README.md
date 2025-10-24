@@ -28,7 +28,7 @@ JavaScript (ES6) – For interactivity and dynamic effects
 
 Download or clone this repository:
 
-git clone https://github.com/yourusername/portfolio-project.git
+git clone https://github.com/Abhi20052025/My-Portfolio-Front-End-Project/tree/main
 
 
 Open the index.html file in your browser
